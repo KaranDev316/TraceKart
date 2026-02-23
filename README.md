@@ -45,7 +45,7 @@ Our goal is to create a centralized, community-driven system that increases the 
 
 ---
 
-## 🛠️ Tech Stack (Example — modify as per your project)
+## 🛠️ Tech Stack 
 
 * **Frontend:** HTML, CSS, JavaScript / React
 * **Backend:** Node.js 
@@ -158,7 +158,7 @@ Contributions are welcome!
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — feel free to use and modify.
+This project is licensed under the **MIT License** 
 
 ---
 
