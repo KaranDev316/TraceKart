@@ -1,7 +1,5 @@
 import Button from "./Button";
 import image from "./profilepic1.jpeg";
-
-
 function Card(){
     return(
         <div className="border rounded-2xl shadow-xl w-96 border-none bg-[#222f54] ">

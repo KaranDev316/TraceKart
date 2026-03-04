@@ -12,7 +12,10 @@ function Home(){
             </div>
             <div className="border mt-6">
                 <h1 className="text-2xl font-bold  mt-2 flex items-start ml-4">Recently Found Items</h1>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4 pb-4">
+                    <Card />
+                    <Card />
+                    <Card />
                     <Card />
                     <Card />
                     <Card />
