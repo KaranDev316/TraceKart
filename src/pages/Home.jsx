@@ -1,4 +1,5 @@
 import Card from "../components/Card";
+import Footer from "../components/Footer";
 
 
 function Home(){
@@ -16,6 +17,10 @@ function Home(){
                     <Card />
                     <Card />
                 </div> 
+
+            </div>
+            <div>
+                <Footer />
             </div>
         </div>
      
