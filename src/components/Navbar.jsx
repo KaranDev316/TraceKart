@@ -2,7 +2,7 @@ import Button from "./Button";
 
 function Navbar(){
     return(
-        <nav className="flex items-center justify-between bg-[#1d6192] p-4 text-white">
+        <nav className="flex items-center justify-between bg-[#1d6192] p-4 text-white sticky top-0 z-10">
             <h1 className="font-bold text-2xl">TraceKart</h1>
             <div className="flex space-x-4 ">
                 <a href="/"className="hover:underline decoration-[#f0c929]">Home</a>
