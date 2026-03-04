@@ -1,5 +1,6 @@
 import Card from "../components/Card";
 import Footer from "../components/Footer";
+import About from "./About";
 
 
 function Home(){
@@ -24,6 +25,7 @@ function Home(){
             </div>
             <div>
                 <Footer />
+                <About />
             </div>
         </div>
      
